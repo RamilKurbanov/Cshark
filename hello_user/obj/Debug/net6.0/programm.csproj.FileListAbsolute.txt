@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Рабочий стол\programm\bin\Debug\net6.0\programm.exe
+C:\Users\Hp\OneDrive\Рабочий стол\programm\bin\Debug\net6.0\programm.deps.json
+C:\Users\Hp\OneDrive\Рабочий стол\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+C:\Users\Hp\OneDrive\Рабочий стол\programm\bin\Debug\net6.0\programm.dll
+C:\Users\Hp\OneDrive\Рабочий стол\programm\bin\Debug\net6.0\ref\programm.dll
+C:\Users\Hp\OneDrive\Рабочий стол\programm\bin\Debug\net6.0\programm.pdb
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.dll
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\ref\programm.dll
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.pdb
+C:\Users\Hp\OneDrive\Рабочий стол\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
